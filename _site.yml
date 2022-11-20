@@ -3,8 +3,8 @@ output_dir: "."
 navbar:
   title: "READit-project-website"
   left:
-    - text: "READit"
-      href: index.html
+#    - text: "READit"
+#      href: index.html
     - text: "Project"
       href: Project.html
     - text: "Schools"

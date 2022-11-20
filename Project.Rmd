@@ -1,6 +1,6 @@
 ---
 title: "The Project"
-author: "Simon Calmar Andersen"
+#author: "Simon Calmar Andersen"
 #date: "2022-11-12"
 output: 
   html_document:
@@ -14,3 +14,4 @@ output:
 
 # Application
 
+A summary of the project application: link

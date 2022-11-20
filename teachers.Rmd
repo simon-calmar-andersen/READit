@@ -1,0 +1,17 @@
+---
+title: "Workpackage II: Teachers"
+#author: "Simon Calmar Andersen"
+#date: "2022-11-12"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: true
+
+
+
+
+---
+
+Project leader on the Teachers work package is Morten Hjortskov

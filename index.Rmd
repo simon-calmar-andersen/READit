@@ -12,11 +12,35 @@ title: "READit Project Website"
 
 READit is a research project aimed at understanding how shared book reading interventions can be made effective at large scale. The project involves potentiallly 500 schools and 40,000 families in Denmark.
 
+READit builds on the READ project (Research on Educational Achievement and Development) (see [publication](https://doi.org/10.1073/pnas.1607946113)). READit has added an IT platorm to READ. On the platform participating parents and children may find additional e-books and advise on how to do shared book reading with their primary school children.
+
 To adhere to the norms of open science, this project website makes publicly available information about the project. At the [github repository](https://github.com/simon-calmar-andersen/READit) all amendments to the project website can be tracked.
 
-At the [project page](https:simon-calmar-andersen.github.io/READit/project) general information about the project may be found including a summary of the application.
+At the [project page](https:simon-calmar-andersen.github.io/READit/project) general information about the project may be found including a summary of the application. Information about the four workpackages are found on the subsites:
+
+
 
 The project is funded by DKK 20 million from The Novo Nordic Foundation.
+
+
+**The READit Team**
+
+
+Nanna Vestergaard Ahrensberg <nannava@ps.au.dk>
+
+Morten Bruntse <m-bruntse@ps.au.dk>
+
+Jesper Asring Jessen Hansen <jesper@ps.au.dk>
+
+Morten Hjortskov <mohl@vive.dk>
+
+Jakob Majlund Holm <jholm@ps.au.dk>
+
+Marlene Vita Kristensen <mvk@econ.au.dk>
+
+Marie Bjertrup Laursen <mabj@ps.au.dk>   
+
+Simon Calmar Andersen (PI) <sca@ps.au.dk>
 
 
 

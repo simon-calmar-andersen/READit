@@ -1,6 +1,6 @@
 ---
 title: "Workpackage I: Schools"
-author: "Simon Calmar Andersen"
+#author: "Simon Calmar Andersen"
 #date: "2022-11-12"
 output: 
   html_document:
@@ -14,3 +14,26 @@ output:
 
 ---
 
+
+Project leader on the Immgrant work package is Jakob Majlund Holm
+
+# Description
+
+The aim of Workpackage I: Schools is to study what factors influence schools' decision to adopt and implement a new program.
+
+## Interventions
+
+We test several interventions.
+
+### Focus of first invitation
+
+In the first invitation to schools send out by email, we randomly assigned schools to two versions of the invitation.
+
+# Preregistration
+
+An anomymized version of the preregistration can be found here:
+
+
+# Power calculation
+
+The fir
