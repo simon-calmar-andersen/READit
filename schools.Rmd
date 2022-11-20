@@ -11,7 +11,6 @@ output:
 
 
 
-
 ---
 
 
@@ -31,9 +30,22 @@ In the first invitation to schools send out by email, we randomly assigned schoo
 
 # Preregistration
 
-An anomymized version of the preregistration can be found here:
+An anomymized version of the preregistration can be found [here](https://aspredicted.org/5JK_RG9)
 
 
 # Power calculation
 
-The fir
+We did the following power calculation before the beginning of the intervention.
+
+```{r, echo=FALSE}
+library(pwr)
+```
+
+```{r, echo=TRUE}
+power_schools <- power.prop.test(n= 200,
+           p1 = 0.30,
+           sig.level = 0.05,
+           power = 0.80)
+power_schools
+```
+which shows that with share of signup of `r power_schools$p1` in the baseline condition we need `r power_schools$p2` in the treatment condition, and thereby a minimum detectable effect size of `r power_schools$p2 - power_schools$p1`.

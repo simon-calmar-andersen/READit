@@ -371,11 +371,32 @@ assigned schools to two versions of the invitation.</p>
 </div>
 <div id="preregistration" class="section level1">
 <h1>Preregistration</h1>
-<p>An anomymized version of the preregistration can be found here:</p>
+<p>An anomymized version of the preregistration can be found <a
+href="https://aspredicted.org/5JK_RG9">here</a></p>
 </div>
 <div id="power-calculation" class="section level1">
 <h1>Power calculation</h1>
-<p>The fir</p>
+<p>We did the following power calculation before the beginning of the
+intervention.</p>
+<pre class="r"><code>power_schools &lt;- power.prop.test(n= 200,
+           p1 = 0.30,
+           sig.level = 0.05,
+           power = 0.80)
+power_schools</code></pre>
+<pre><code>## 
+##      Two-sample comparison of proportions power calculation 
+## 
+##               n = 200
+##              p1 = 0.3
+##              p2 = 0.4346572
+##       sig.level = 0.05
+##           power = 0.8
+##     alternative = two.sided
+## 
+## NOTE: n is number in *each* group</code></pre>
+<p>which shows that with share of signup of 0.3 in the baseline
+condition we need 0.4346572 in the treatment condition, and thereby a
+minimum detectable effect size of 0.1346572.</p>
 </div>
 
 
