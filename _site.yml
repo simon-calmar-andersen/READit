@@ -1,0 +1,22 @@
+name: "READit-project-website"
+output_dir: "."
+navbar:
+  title: "READit-project-website"
+  left:
+    - text: "READit"
+      href: index.html
+    - text: "Project"
+      href: Project.html
+    - text: "Schools"
+      href: schools.html
+    - text: "Teachers"
+      href: teachers.html
+    - text: "Families"
+      href: families.html
+    - text: "Immigrants"
+      href: immigrants.html
+      
+output:
+  html_document:
+    theme: simplex
+    css: style.css
